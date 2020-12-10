@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
-          children: <Widget>[classSelector, coeTimer],
+          children: <Widget>[classSelector, Carousel()],
         ),
       ),
     );
