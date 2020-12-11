@@ -9,3 +9,5 @@ enum HeroClass {
 }
 
 enum Gender { female, male }
+
+enum NatureElement { arcane, cold, fire, holy, lightning, physical, poison }
