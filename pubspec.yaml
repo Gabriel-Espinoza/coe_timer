@@ -54,6 +54,20 @@ flutter:
     - assets/Rayo.jpg
     - assets/Sacro.jpg
     - assets/Veneno.jpg
+    - assets/barbarian_female.png
+    - assets/barbarian_male.png
+    - assets/crusader_female.png
+    - assets/crusader_male.png
+    - assets/demonhunter_female.png
+    - assets/demonhunter_male.png
+    - assets/monk_female.png
+    - assets/monk_male.png
+    - assets/necromancer_female.png
+    - assets/necromancer_male.png
+    - assets/witchdoctor_female.png
+    - assets/witchdoctor_male.png
+    - assets/wizard_female.png
+    - assets/wizard_male.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
