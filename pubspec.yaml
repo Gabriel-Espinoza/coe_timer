@@ -49,6 +49,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/Arcano.jpg
+    - assets/muscle.svg
     - assets/Fuego.jpg
     - assets/Hielo.jpg
     - assets/Rayo.jpg

@@ -5,7 +5,7 @@ Carousel coeTimer = new Carousel();
 
 List<String> photos = [
   'assets/Fuego.jpg',
-  'assets/Fuego.svg',
+  'assets/muscle.svg',
   'assets/Sacro.jpg',
   'assets/Rayo.jpg',
   'assets/Arcano.jpg',
