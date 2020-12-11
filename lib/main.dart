@@ -1,4 +1,3 @@
-import 'package:coe_timer/Title.dart';
 import 'package:coe_timer/classSelector.dart';
 import 'package:coe_timer/coeTimer.dart';
 import 'package:flutter/material.dart';
