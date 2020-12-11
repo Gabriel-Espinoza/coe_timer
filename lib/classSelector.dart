@@ -11,11 +11,9 @@ Expanded classSelector = new Expanded(
     children: List.generate(HeroClass.values.length, (index) {
       return Center(
           child: IconButton(
-        // icon: Image.asset(classes[index]),
         icon: Image.asset(AssetManager.getHeroClassAsset(
             HeroClass.values[index], Gender.male)),
-
-        iconSize: 50,
+        iconSize: 110,
         onPressed: () {
           print('Selected Hero = ${HeroClass.values[index]}');
         },
