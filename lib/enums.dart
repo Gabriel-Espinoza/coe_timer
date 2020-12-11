@@ -5,7 +5,7 @@ enum HeroClass {
   monk,
   necromancer,
   witchdoctor,
-  wizard_male,
+  wizard,
 }
 
 enum Gender { female, male }
